@@ -1,13 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-############################################
-# File Name    : 0525_yanming.py
-# Created By   : xuyanming - xuyanming@cmcm.com
-# Creation Date: 2020-05-25
-# Last Modified: 2020-05-25 20:49:59
-# Descption    :
-# Version      : Python 3.7
-############################################
 import argparse
 import time
 import os
